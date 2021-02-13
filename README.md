@@ -1,67 +1,71 @@
+<p align="center">
+<img src="https://github.com/x1234xx/BlackNET-3.7.0.1/blob/main/68747470733a2f2f652e746f7034746f702e696f2f705f31373539636c317436312e706e67.png" ><br>
 
 
 
-BlackNET
-Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
 
-About BlackNET
-Free advanced and modern Windows botnet with a nice and secure PHP panel built using VB.NET.
+        BlackNET
+        Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
+        <p align="center">
+<img src="https://github.com/x1234xx/BlackNET-3.7.0.1/blob/main/BlackNET%20-%20Main%20Interface.png" ><br>
 
-this botnet controller comes with a lot of features and the most secure panel for free
 
-Developed By: Black.Hacker
+        About BlackNET
+        Free advanced and modern Windows botnet with a nice and secure PHP panel built using VB.NET.
 
-What You Can Do
+        this botnet controller comes with a lot of features and the most secure panel for free
+        Developed By: Black.Hacker
 
-    Upload File
-        From URL
-        From Disk
-    DDOS Attack [ TCP,UDP,ARME,Slowloris, HTTPGet, POSTHttp, Bandwidth Flood ]
-        Start DDOS
-        Stop DDOS
-    Open Webpage
-        Visible
-        Hidden
-    Show MessageBox
-    Take Screenshot
-    Steal Firefox Cookies
-    Steal Saved Passwords
-        Chrome
-        Firefox
-        NordVPN
-        FileZilla
-        Outlook
-    Steal Chrome Cookies
-    Steal Discord Token
-    Steal Clipboard Data
-    Execute Shell Commands
-        CMD (Command Prompt)
-        Powershell
-    Send Spam Emails
-    Run XMR Miner
-    Seed a Torrent File
-        From Disk
-        From URL
-    Keylogger
-    Execute Scripts
-    Execute Custom Plugins
-    Computer Operations
-        Restart
-        Shutdown
-        Logout
-    Bitcoin Wallet Stealer
-    Uninstall Client
-    Move Client
-    Blacklist Client
-    Update Client
-    Close Client
+        What You Can Do
 
-Requirements
+                                             Upload Fil      
+                                             From URL
+                                             From Disk
+        DDOS Attack [ TCP,UDP,ARME,Slowloris, HTTPGet, POSTHttp, Bandwidth Flood ]
+                                             Start DDOS
+                                             Stop DDOS
+                                             Open Webpage
+                                             Visible
+                                             Hidden
+                                             Show MessageBox
+                                             Take Screenshot
+                                             Steal Firefox Cookies
+                                             Steal Saved Passwords
+                                             Chrome
+                                             Firefox
+                                             NordVPN
+                                             FileZilla
+                                             Outlook
+                                             Steal Chrome Cookies
+                                             Steal Discord Token
+                                             Steal Clipboard Data
+                                             Execute Shell Commands
+                                             CMD (Command Prompt)
+                                             Powershell
+                                             Send Spam Emails
+                                             Run XMR Miner
+                                             Seed a Torrent File
+                                             From Disk
+                                             From URL
+                                             Keylogger
+                                             Execute Scripts
+                                             Execute Custom Plugins
+                                             Computer Operations
+                                             Restart
+                                             Shutdown
+                                             Logout
+                                             Bitcoin Wallet Stealer
+                                             Uninstall Client
+                                             Move Client
+                                             Blacklist Client
+                                             Update Client
+                                             Close Client
 
-    PHP >= 7.3
-    NET Framework
-        Stub >= 4.5
-        Builder >= 4.5
+                                             Requirements
+                                             PHP >= 7.3
+                                             NET Framework
+                                             Stub >= 4.5
+                                             Builder >= 4.5
 
 How to Install
 
@@ -109,23 +113,6 @@ Pattern Example:
 000Webhost notice
 Please use Unzipper.php to extract the panel files inside 000webhost filemanager
 
-Documentation
-If you want to develope or reuse the panel you can take a look at the code document to understand some of the functions and how to use them
-
-Documentation
-Screenshots
-
-
-
-
-YouTube Tutorials
-How to install BlackNET v3.7.0
-
-How to obfuscate BlackNET
-
-How to Setup BlackNET Cron Job System
-
-How to Secure BlackNET Panel
 
 What's New
 v3.7
